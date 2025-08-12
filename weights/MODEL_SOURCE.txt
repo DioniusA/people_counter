@@ -1,0 +1,3 @@
+head.pt model source:
+https://github.com/AbelKidaneHaile/Reports/tree/main/models
+Description: Pretrained YOLO model for head detection.
