@@ -1,4 +1,3 @@
-````markdown
 # Multi-Stream Head Counter
 
 This project counts heads on multiple video streams using a YOLO model with a FastAPI backend.
@@ -131,5 +130,3 @@ Once the server is running, explore the interactive API docs at:
 ---
 
 If you encounter any issues or have questions, feel free to open an issue or contact the maintainer.
-
-```
